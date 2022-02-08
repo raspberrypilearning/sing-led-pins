@@ -1,0 +1,9 @@
+title: Set the pins for a single LED
+hero_image: images/banner.png
+description: Set the pins for a single LED on a Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-08"
+steps:
+  - title: Set the pins for a single LED
