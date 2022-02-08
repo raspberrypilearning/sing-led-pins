@@ -4,7 +4,7 @@ To set the pin for a single LED, use the following code:
 ---
 language: python
 filename: mood-check-in.py
-line_numbers: true
+line_numbers: false
 line_number_start: 1
 line_highlights: 
 ---
