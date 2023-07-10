@@ -1,4 +1,4 @@
-To set the pin for a single LED, use the following code:
+Om de pin voor een enkele LED in te stellen, gebruik de volgende code:
 
 --- code ---
 ---
