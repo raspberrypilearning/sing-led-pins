@@ -1,4 +1,4 @@
-To set the pin for a single LED, use the following code:
+Pour définir la broche pour une seule LED, utilise le code suivant :
 
 --- code ---
 ---
